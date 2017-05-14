@@ -1,3 +1,5 @@
+// +build OMIT
+
 package main
 
 import "fmt"
@@ -8,9 +10,5 @@ type Vertex struct {
 }
 
 func main() {
-	v := Vertex{1, 2}
-	fmt.Println(v)
-
-	v.X = 0
-	fmt.Println(v)
+	fmt.Println(Vertex{1, 2})
 }
