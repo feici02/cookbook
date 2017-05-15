@@ -1,8 +1,8 @@
 # gotour
 
-## [welcome](./welcome)
+## [0. welcome](./welcome)
 
-## basics
+## 1. basics
 
 ### [packages, variables and functions](./basics)
 
@@ -10,6 +10,6 @@
 
 ### [more data types: structs, slices, and maps](./moretypes)
 
-## [methods and interfaces](./methods)
+## [2. methods and interfaces](./methods)
 
-## [concurrency](./concurrency)
+## [3. concurrency](./concurrency)
